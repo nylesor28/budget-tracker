@@ -57,6 +57,7 @@ request.onsuccess = function(event) {
             const transaction = db.transaction(['budget_tracker'], 'readwrite');
             const budgetObjectStore = transaction.objectStore('budget_tracker');
             budgetObjectStore.clear();
+            alert('Transaction saved successfully!');
           })
           .catch(err => {
             // set reference to redirect back here
