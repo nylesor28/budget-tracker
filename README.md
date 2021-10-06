@@ -32,7 +32,7 @@ To run locally:
 
 ```
 ### Screen Print
-![Screen Print Budget Tracker](./assets/images/budget_tracker_screenprint.jpg)
+![Screen Print Budget Tracker](./public/assets/images/budget_tracker_screenprint.jpg)
 
 
 ## ​Contributors
