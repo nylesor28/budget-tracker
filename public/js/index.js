@@ -121,7 +121,8 @@ function sendTransaction(isAdding) {
       "Content-Type": "application/json"
     }
   })
-  .then(response => {    
+  .then(response => {   
+
     return response.json();
   })
   .then(data => {
@@ -129,6 +130,7 @@ function sendTransaction(isAdding) {
       errorEl.textContent = "Missing Information";
     }
     else {
+      alert('Transaction saved successfully!');
       // clear form
       nameEl.value = "";
       amountEl.value = "";
