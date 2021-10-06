@@ -7,7 +7,7 @@ The Budget Tracker Application provides users the ability to add expenses and de
 # Table of Contents 
 * [Installation](#installation)
 * [Usage](#usage)
-* [Contributing](#​contributors)
+* [Contributing](#contributors)
 * [Contact Me](#contact-me)
 * [License](#license)
 
@@ -21,8 +21,7 @@ To run locally:
 
 ## Usage
 
-### ​Application URL:  
-![Application URL](https://nylesor28-budget-tracker.herokuapp.com/)
+**Application URL:** <https://nylesor28-budget-tracker.herokuapp.com/>
 
 ```
 1. Navigate to the application URL
@@ -32,11 +31,11 @@ To run locally:
 
 ```
 ### Screen Print
-![Screen Print Budget Tracker](./public/assets/images/budget_tracker_screenprint.jpg)
+![Screen Print Budget Tracker](/public/assets/images/budget_tracker_screenprint.jpg)
 
 
-## ​Contributors
-Starter Code : (https://github.com/coding-boot-camp/symmetrical-bassoon). 
+## Contributors
+Starter Code : [https://github.com/coding-boot-camp/symmetrical-bassoon](https://github.com/coding-boot-camp/symmetrical-bassoon). <br>
 To contribute code, create a branch from develop and request pull request to merge back into develop. 
 
 ## Contact Me
