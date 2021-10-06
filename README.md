@@ -31,18 +31,18 @@ To run locally:
 
 ```
 ### Screen Print
-![Screen Print Budget Tracker](/public/assets/images/budget_tracker_screenprint.jpg)
+![Screen Print Budget Tracker](/public/images/budget_tracker_screenprint.jpg)
 
 
 ## Contributors
-Starter Code : [https://github.com/coding-boot-camp/symmetrical-bassoon](https://github.com/coding-boot-camp/symmetrical-bassoon). <br>
+**Starter Code:** [https://github.com/coding-boot-camp/symmetrical-bassoon](https://github.com/coding-boot-camp/symmetrical-bassoon). <br>
 To contribute code, create a branch from develop and request pull request to merge back into develop. 
 
 ## Contact Me
  Contact me via github issue [nylesor28](https://github.com/nylesor28) 
  
  ## License
-   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) <br />
     (https://choosealicense.com/licenses/mit/)
 
 
